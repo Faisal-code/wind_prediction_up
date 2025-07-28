@@ -14,3 +14,6 @@ venv\\Scripts\\activate
 
 #install required libraries
 pip install -r requirements.txt
+
+
+<B> Wind Speed Prediction Using VAE-S2S-BiLSTM-Enc-Dec and Streamlit </B>
